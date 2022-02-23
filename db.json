@@ -1,7 +1,7 @@
 {
   "clientes": [
     {
-      "nombre": "Pepe López",
+      "nombre": "Pepe López Actualizado",
       "empresa": "Alsol",
       "email": "pepe@gmail.com",
       "telefono": "123456789",
@@ -12,17 +12,17 @@
       "nombre": "Sebastián Ramírez",
       "empresa": "Alsol",
       "email": "sebas@gmail.com",
-      "telefono": "123456789",
+      "telefono": "999888777",
       "notas": "",
       "id": 2
     },
     {
-      "nombre": "Juan Gómez",
-      "empresa": "Alsol",
-      "email": "juan@gmail.com",
-      "telefono": "99999999999",
-      "notas": "Amigo de Fede",
-      "id": 3
+      "nombre": "Edgar Swaroo",
+      "empresa": "Microsoft SRL",
+      "email": "edgar@gmail.com",
+      "telefono": "999888555",
+      "notas": "Trabaja con Sebastián Ramírez - Tiangolo",
+      "id": 4
     }
   ]
 }

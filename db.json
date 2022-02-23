@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Pepe López",
+      "empresa": "Alsol",
+      "email": "pepe@gmail.com",
+      "telefono": "123456789",
+      "notas": "Cliente recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Sebastián Ramírez",
+      "empresa": "Alsol",
+      "email": "sebas@gmail.com",
+      "telefono": "123456789",
+      "notas": "",
+      "id": 2
+    },
+    {
+      "nombre": "Juan Gómez",
+      "empresa": "Alsol",
+      "email": "juan@gmail.com",
+      "telefono": "99999999999",
+      "notas": "Amigo de Fede",
+      "id": 3
+    }
+  ]
+}

@@ -29,7 +29,10 @@ const VerCliente = () => {
   return cargando ? (
     <Spinner />
   ) : Object.keys(cliente).length === 0 ? (
-    <p>No hay resultados</p>
+    <div>
+      <h1 className="font-black text-4xl text-blue-900">Ver Cliente</h1>
+      <p className="mt-5 text-xl">Cliente ID no válido</p>
+    </div>
   ) : (
     <div>
       <h1 className="font-black text-4xl text-blue-900">
